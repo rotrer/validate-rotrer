@@ -1,11 +1,11 @@
 {
   "name": "validate-rotrer",
   "version": "1.0",
-  "authors": [
-    "@rotrer <rotrer@gmail.com>"
-  ],
+  "authors": "Cristian Alvarad @rotrer",
   "description": "Validate forms, validate RUT(Chile)",
-  "main": "validate.js",
+  "main": [
+    "js/validate.js"
+  ],
   "keywords": [
     "validate",
     "form",
@@ -13,5 +13,7 @@
     "jquery"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/rotrer/validate-rotrer"
+  "homepage": "https://github.com/rotrer/validate-rotrer",
+  "ignore": {},
+  "dependencies": {}
 }
