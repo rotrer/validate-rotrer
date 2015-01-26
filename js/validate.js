@@ -175,6 +175,3 @@ function getAge(year, month, day) {
 function validaPatente(val){
 	return val.match(/^[a-z]{2}[\.\- ]?[0-9]{2}[\.\- ]?[0-9]{2}|[b-d,f-h,j-l,p,r-t,v-z]{2}[\-\. ]?[b-d,f-h,j-l,p,r-t,v-z]{2}[\.\- ]?[0-9]{2}$/i);
 }
-$(document).ready(function(){
-	$('.rut').Rut();
-});
