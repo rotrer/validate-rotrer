@@ -1,6 +1,6 @@
 {
   "name": "validate-rotrer",
-  "version": "1.0",
+  "version": "1.0.0",
   "authors": "Cristian Alvarad @rotrer",
   "description": "Validate forms, validate RUT(Chile)",
   "main": [
